@@ -10,3 +10,4 @@ from classes.employee import Employee
 from classes.user import User
 
 __all__ = ["Manager", "Parent", "Student", "Teacher", "Employee", "User"]
+
